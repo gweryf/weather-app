@@ -1,0 +1,1 @@
+(()=>{const e=document.getElementById("content"),t=document.createElement("div");t.textContent="ur mom",e.appendChild(t)})();
