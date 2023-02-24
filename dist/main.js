@@ -1,1 +1,1 @@
-(()=>{const e=document.getElementById("content"),t=document.createElement("div");t.textContent="ur mom",e.appendChild(t)})();
+(()=>{"use strict";document.getElementById("content").append(function(){const e=document.createElement("form"),t=document.createElement("input");t.type="text",t.placeholder="Enter a City Name";const n=document.createElement("button");return n.textContent="Search!",n.type="submit",e.appendChild(t),e.appendChild(n),e}())})();

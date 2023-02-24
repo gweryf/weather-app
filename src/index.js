@@ -1,5 +1,3 @@
-const body = document.getElementById('content')
+import loadForm from "./basicpage";
 
-const printbdy = document.createElement('div')
-printbdy.textContent = 'ur mom'
-body.appendChild(printbdy)
+loadForm()
