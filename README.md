@@ -1,7 +1,7 @@
 ![Top-Language](https://img.shields.io/github/languages/top/gweryf/to-do-app)
 ![Files](https://img.shields.io/github/directory-file-count/gweryf/to-do-app)
 ![Files](https://img.shields.io/github/repo-size/gweryf/to-do-app)
-![Files](https://img.shields.io/twitter/follow/gweryf?style=social)
+[![Files](https://img.shields.io/twitter/follow/gweryf?style=social)](https://twitter.com/gweryf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect!-blue)](https://www.linkedin.com/in/shrivastavpriyam/)
 
 <br />
