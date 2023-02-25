@@ -17,7 +17,10 @@ function searchCity() {
 
 function loadForm() {
     const body = document.getElementById('content')
+    const weatherArea = document.createElement('div')
+    weatherArea.id = 'weatherArea'
     body.append(searchCity())
+    body.append(weatherArea)
 }
 
 export default loadForm

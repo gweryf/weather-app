@@ -8,19 +8,19 @@ function createWeatherCard(weatherData) {
 
     const mainWeather = document.createElement('h3')
     mainWeather.id = 'mainWeather'
-    mainWeather.textContent = weatherData.main.temp
+    mainWeather.textContent = `${weatherData.main.temp-273.15}°C`
 
     const feelsLike = document.createElement('div')
     feelsLike.id = 'feelsLike'
-    feelsLike.textContent = weatherData.main.feels_like
+    feelsLike.textContent = `Feels Like:${weatherData.main.feels_like-273.15}°C` 
 
     const humidity = document.createElement('div')
     humidity.id = 'humidity'
-    humidity.textContent = weatherData.main.humidity
+    humidity.textContent = `Humidity:${weatherData.main.humidity}%`
 
     const wind = document.createElement('div')
     wind.id = 'wind'
-    wind.textContent = weatherData.wind.speed
+    wind.textContent = `Wind:${weatherData.wind.speed} km/h`
 
     mainCard.appendChild(cityName)
     mainCard.appendChild(mainWeather)
