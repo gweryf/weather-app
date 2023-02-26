@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+#content {
+    background-image: url(images/backgrnd.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+#formBdy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 30px;
+}
+
+
+#weatherArea {
+    width: 400px;
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+}
+
+nav {
+    text-align: center;
+    font-size: 10vh;
+    font-weight: 900;
+    padding: 20px;
+}
+
+#mainCard {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 1vh;
+}
+#mainCard h2{
+    font-size: 5vh;
+}
+
+#mainCard h3{
+    font-size: 4vh;
+}
