@@ -11,7 +11,7 @@
   <p align="center">
     Even Mother Nature checks us out before making her plans!
     <br />
-    <a href="https://gweryf.github.io/to-do-app/">View Demo</a>
+    <a href="https://gweryf.github.io/weather-app/">View Demo</a>
     ·
     <a href="https://github.com/gweryf/weather-app/issues">Report Bug</a>
     ·
