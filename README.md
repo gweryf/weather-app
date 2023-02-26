@@ -1,6 +1,6 @@
-![Top-Language](https://img.shields.io/github/languages/top/gweryf/to-do-app)
-![Files](https://img.shields.io/github/directory-file-count/gweryf/to-do-app)
-![Files](https://img.shields.io/github/repo-size/gweryf/to-do-app)
+![Top-Language](https://img.shields.io/github/languages/top/gweryf/weather-app)
+![Files](https://img.shields.io/github/directory-file-count/gweryf/weather-app)
+![Repo-Size](https://img.shields.io/github/repo-size/gweryf/weather-app)
 [![Files](https://img.shields.io/twitter/follow/gweryf?style=social)](https://twitter.com/gweryf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect!-blue)](https://www.linkedin.com/in/shrivastavpriyam/)
 
@@ -22,6 +22,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+![image](https://user-images.githubusercontent.com/105338002/221397105-69974e31-12b0-4b20-97b2-bcf1a4a2ddf7.png)
 
 Welcome to our weather website, where you can stay up-to-date on the latest weather conditions in your area! Built using NPM and Webpack, we've optimized the site for fast loading times and a smooth user experience. We also use the OpenWeather API to provide accurate and reliable weather information. Whether you need to plan your day or prepare for a trip, our site has got you covered.
 
@@ -54,7 +56,7 @@ Don't forget to give the project a star! Thanks again!
 
 Priyam Shrivastava - [@gweryf](https://twitter.com/gweryf) - priyam2007sp@gmail.com
 
-Project Link: [To-Do List](https://github.com/gweryf/weather-app)
+Project Link: [Weather-App](https://github.com/gweryf/weather-app)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -63,6 +65,7 @@ Project Link: [To-Do List](https://github.com/gweryf/weather-app)
 * [theodinproject](https://www.theodinproject.com/)
 * [Webpack Documntation](https://webpack.js.org/guides/asset-management/)
 * [Shields.io](https://shields.io/)
+* [OpenWeather API](https://openweathermap.org/current)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
