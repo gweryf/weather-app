@@ -40,6 +40,7 @@ nav {
 }
 
 #mainCard {
+    margin-top: 10vh;
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -51,4 +52,26 @@ nav {
 
 #mainCard h3{
     font-size: 4vh;
+}
+
+#searchBar {
+    border: 2px solid transparent;
+    background: rgba(185, 186, 185, 0.3);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#searchButton {
+    border:none;
+    background:none;
+    font-size: large;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+#searchButton:hover{
+    background-color: black;
+    transition-duration: 0.5s;
 }
