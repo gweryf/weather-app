@@ -25,7 +25,7 @@
 
 ![image](https://user-images.githubusercontent.com/105338002/221397105-69974e31-12b0-4b20-97b2-bcf1a4a2ddf7.png)
 
-Welcome to our weather website, where you can stay up-to-date on the latest weather conditions in your area! Built using NPM and Webpack, we've optimized the site for fast loading times and a smooth user experience. We also use the OpenWeather API to provide accurate and reliable weather information. Whether you need to plan your day or prepare for a trip, our site has got you covered.
+Welcome to my weather website, where you can stay up-to-date on the latest weather conditions in your area! Built using NPM and Webpack, I've optimized the site for fast loading times and a smooth user experience. I have used the OpenWeather API to provide accurate and reliable weather information. Whether you need to plan your day or prepare for a trip, our site has got you covered.
 
 ### Built With
 
